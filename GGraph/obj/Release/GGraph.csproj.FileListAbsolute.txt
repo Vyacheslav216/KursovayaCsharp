@@ -1,0 +1,10 @@
+D:\Visual Studio\GGraph\GGraph\bin\Release\GGraph.exe.config
+D:\Visual Studio\GGraph\GGraph\bin\Release\GGraph.exe
+D:\Visual Studio\GGraph\GGraph\bin\Release\GGraph.pdb
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.csprojAssemblyReference.cache
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.Form1.resources
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.Properties.Resources.resources
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.csproj.GenerateResource.cache
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.exe
+D:\Visual Studio\GGraph\GGraph\obj\Release\GGraph.pdb
